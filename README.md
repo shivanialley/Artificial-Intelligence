@@ -32,4 +32,4 @@ This Python program allows users to interact with the GPT-3 model via the Huggin
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ## Done by Shivani Garg
-https://github.com/shivanialley/Artificial-Intelligence.git
+https://github.com/shivanialley/GPT-3-Conversation-Interface-AI-.git
